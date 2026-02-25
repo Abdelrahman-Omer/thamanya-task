@@ -47,7 +47,7 @@ fun BigSquareList(
     onTrackSelected: (HomeResponse.Section.Content) -> Unit
 ) {
     val configuration = LocalConfiguration.current
-    val screenWidthDp = (configuration.screenWidthDp).minus(32)
+    val screenWidthDp = (configuration.screenWidthDp).minus(64)
 
     LazyRow(
         modifier = modifier
