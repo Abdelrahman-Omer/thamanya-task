@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+font ipsa_bold
+font ipsa_extra_light
+font ipsa_light
+font ipsa_medium
+font ipsa_regular
+font ipsa_semi_bold
+font ipsa_thin

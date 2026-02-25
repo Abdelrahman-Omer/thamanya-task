@@ -1,0 +1,59 @@
+# compiler: R8
+# compiler_version: 8.8.27
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.2"}
+# pg_map_id: 77c30f7
+# pg_map_hash: SHA-256 77c30f77b3ede39f2a330f34865ff8793bb48d88d44adbdcbcc05b72c92cadfa
+com.thamanya.designsystem.BuildConfig -> com.thamanya.designsystem.BuildConfig:
+# {"id":"sourceFile","fileName":"BuildConfig.java"}
+    1:1:void <init>():6:6 -> <init>
+com.thamanya.designsystem.theme.AppTypographyKt -> com.thamanya.designsystem.theme.AppTypographyKt:
+# {"id":"sourceFile","fileName":"AppTypography.kt"}
+    1:2:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):22:22 -> AppTypography
+    3:8:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):23:28 -> AppTypography
+    9:18:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):25:34 -> AppTypography
+    19:28:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):31:40 -> AppTypography
+    29:38:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):37:46 -> AppTypography
+    39:48:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):43:52 -> AppTypography
+    49:58:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int) -> AppTypography
+    59:68:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):55:64 -> AppTypography
+    69:78:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):61:70 -> AppTypography
+    79:88:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):67:76 -> AppTypography
+    89:98:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):73:82 -> AppTypography
+    99:108:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):79:88 -> AppTypography
+    109:118:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):85:94 -> AppTypography
+    119:119:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):91:91 -> AppTypography
+    120:120:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):24:24 -> AppTypography
+    121:121:androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int):22:22 -> AppTypography
+    1:6:androidx.compose.ui.text.font.FontFamily IbmFontFamily(androidx.compose.runtime.Composer,int):13:18 -> IbmFontFamily
+    7:7:androidx.compose.ui.text.font.FontFamily IbmFontFamily(androidx.compose.runtime.Composer,int):13:13 -> IbmFontFamily
+com.thamanya.designsystem.theme.ColorKt -> com.thamanya.designsystem.theme.ColorKt:
+# {"id":"sourceFile","fileName":"Color.kt"}
+    1:16:void <clinit>():5:20 -> <clinit>
+    1:1:long getGrayBackgroundColor():14:14 -> getGrayBackgroundColor
+    1:1:long getPink40():11:11 -> getPink40
+    1:1:long getPink80():7:7 -> getPink80
+    1:1:long getPrimaryBlack():16:16 -> getPrimaryBlack
+    1:1:long getPrimaryDarkGreen():19:19 -> getPrimaryDarkGreen
+    1:1:long getPrimaryLightGreen():18:18 -> getPrimaryLightGreen
+    1:1:long getPrimaryOrange():15:15 -> getPrimaryOrange
+    1:1:long getPrimaryRed():20:20 -> getPrimaryRed
+    1:1:long getPurple40():9:9 -> getPurple40
+    1:1:long getPurple80():5:5 -> getPurple80
+    1:1:long getPurpleGrey40():10:10 -> getPurpleGrey40
+    1:1:long getPurpleGrey80():6:6 -> getPurpleGrey80
+    1:1:long getTextColor():13:13 -> getTextColor
+com.thamanya.designsystem.theme.ThemeKt -> com.thamanya.designsystem.theme.ThemeKt:
+# {"id":"sourceFile","fileName":"Theme.kt"}
+    1:3:void <clinit>():14:16 -> <clinit>
+    4:13:void <clinit>():13:22 -> <clinit>
+    14:14:void <clinit>():19:19 -> <clinit>
+    1:7:void ThamanyaTheme(kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int):38:44 -> ThamanyaTheme
+    8:11:void ThamanyaTheme(kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int):38:41 -> ThamanyaTheme
+    12:17:void ThamanyaTheme(kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int):39:44 -> ThamanyaTheme
+com.thamanya.designsystem.theme.TypeKt -> com.thamanya.designsystem.theme.TypeKt:
+# {"id":"sourceFile","fileName":"Type.kt"}
+    1:7:void <clinit>():10:16 -> <clinit>
+    8:8:void <clinit>():11:11 -> <clinit>
+    9:9:void <clinit>():10:10 -> <clinit>
+    1:1:androidx.compose.material3.Typography getTypography():10:10 -> getTypography

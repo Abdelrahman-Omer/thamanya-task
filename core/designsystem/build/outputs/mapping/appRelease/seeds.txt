@@ -1,0 +1,60 @@
+com.thamanya.designsystem.theme.TypeKt
+com.thamanya.designsystem.R
+com.thamanya.designsystem.BuildConfig
+com.thamanya.designsystem.theme.ColorKt
+com.thamanya.designsystem.theme.AppTypographyKt
+com.thamanya.designsystem.R$font
+com.thamanya.designsystem.theme.ThemeKt
+com.thamanya.designsystem.theme.ColorKt: long PurpleGrey40
+com.thamanya.designsystem.BuildConfig: java.lang.String LIBRARY_PACKAGE_NAME
+com.thamanya.designsystem.R$font: int ipsa_light
+com.thamanya.designsystem.BuildConfig: java.lang.String MAP_KEY
+com.thamanya.designsystem.theme.ColorKt: long Pink40
+com.thamanya.designsystem.BuildConfig: boolean DEBUG
+com.thamanya.designsystem.theme.ColorKt: long GrayBackgroundColor
+com.thamanya.designsystem.BuildConfig: boolean CAN_CLEAR_CACHE
+com.thamanya.designsystem.theme.ThemeKt: androidx.compose.material3.ColorScheme LightColorScheme
+com.thamanya.designsystem.theme.ColorKt: long PrimaryOrange
+com.thamanya.designsystem.BuildConfig: java.lang.String HOME_SECTION_BASE_URL
+com.thamanya.designsystem.R$font: int ipsa_semi_bold
+com.thamanya.designsystem.R$font: int ipsa_medium
+com.thamanya.designsystem.theme.ColorKt: long PrimaryDarkGreen
+com.thamanya.designsystem.theme.ColorKt: long PrimaryLightGreen
+com.thamanya.designsystem.R$font: int ipsa_regular
+com.thamanya.designsystem.theme.ColorKt: long Purple40
+com.thamanya.designsystem.theme.ColorKt: long Pink80
+com.thamanya.designsystem.theme.ColorKt: long PrimaryBlack
+com.thamanya.designsystem.R$font: int ipsa_extra_light
+com.thamanya.designsystem.R$font: int ipsa_bold
+com.thamanya.designsystem.theme.ColorKt: long PurpleGrey80
+com.thamanya.designsystem.theme.TypeKt: androidx.compose.material3.Typography Typography
+com.thamanya.designsystem.BuildConfig: java.lang.String BUILD_TYPE
+com.thamanya.designsystem.BuildConfig: java.lang.String FLAVOR
+com.thamanya.designsystem.theme.ColorKt: long PrimaryRed
+com.thamanya.designsystem.BuildConfig: int DB_VERSION
+com.thamanya.designsystem.theme.ColorKt: long Purple80
+com.thamanya.designsystem.theme.ThemeKt: androidx.compose.material3.ColorScheme DarkColorScheme
+com.thamanya.designsystem.BuildConfig: java.lang.String HOME_SECTION_SEARCH_BASE_URL
+com.thamanya.designsystem.R$font: int ipsa_thin
+com.thamanya.designsystem.theme.ColorKt: long TextColor
+com.thamanya.designsystem.theme.AppTypographyKt: androidx.compose.material3.Typography AppTypography(androidx.compose.runtime.Composer,int)
+com.thamanya.designsystem.theme.ColorKt: long getPrimaryBlack()
+com.thamanya.designsystem.theme.ThemeKt: void ThamanyaTheme(kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int)
+com.thamanya.designsystem.theme.ColorKt: long getPrimaryDarkGreen()
+com.thamanya.designsystem.theme.ColorKt: long getPrimaryRed()
+com.thamanya.designsystem.theme.ColorKt: long getPink40()
+com.thamanya.designsystem.theme.ColorKt: long getPurpleGrey40()
+com.thamanya.designsystem.theme.ColorKt: long getPink80()
+com.thamanya.designsystem.theme.ColorKt: long getTextColor()
+com.thamanya.designsystem.theme.ThemeKt: kotlin.Unit ThamanyaTheme$lambda$0(kotlin.jvm.functions.Function2,int,androidx.compose.runtime.Composer,int)
+com.thamanya.designsystem.theme.ColorKt: long getPurple40()
+com.thamanya.designsystem.R$font: R$font()
+com.thamanya.designsystem.theme.ColorKt: long getPrimaryLightGreen()
+com.thamanya.designsystem.theme.ColorKt: long getPurpleGrey80()
+com.thamanya.designsystem.theme.TypeKt: androidx.compose.material3.Typography getTypography()
+com.thamanya.designsystem.theme.AppTypographyKt: androidx.compose.ui.text.font.FontFamily IbmFontFamily(androidx.compose.runtime.Composer,int)
+com.thamanya.designsystem.R: R()
+com.thamanya.designsystem.theme.ColorKt: long getPrimaryOrange()
+com.thamanya.designsystem.theme.ColorKt: long getGrayBackgroundColor()
+com.thamanya.designsystem.BuildConfig: BuildConfig()
+com.thamanya.designsystem.theme.ColorKt: long getPurple80()

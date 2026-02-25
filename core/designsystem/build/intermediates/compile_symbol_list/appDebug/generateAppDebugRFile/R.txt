@@ -1,0 +1,7 @@
+int font ipsa_bold 0x0
+int font ipsa_extra_light 0x0
+int font ipsa_light 0x0
+int font ipsa_medium 0x0
+int font ipsa_regular 0x0
+int font ipsa_semi_bold 0x0
+int font ipsa_thin 0x0

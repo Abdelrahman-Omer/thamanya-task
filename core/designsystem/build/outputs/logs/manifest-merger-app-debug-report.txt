@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml:2:13-83
+INJECTED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml:2:13-83
+	package
+		INJECTED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml
+	xmlns:android
+		ADDED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml:2:23-81
+uses-sdk
+INJECTED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml reason: use-sdk injection requested
+INJECTED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml
+INJECTED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml
+	android:targetSdkVersion
+		INJECTED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml
+	android:minSdkVersion
+		INJECTED from /Users/AbdelrahmanOmer/Downloads/thamanya-task-main/core/designsystem/build/intermediates/tmp/ProcessLibraryManifest/app/debug/tempAndroidManifest15422593867007379616.xml
